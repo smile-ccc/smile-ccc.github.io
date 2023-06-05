@@ -1,0 +1,65 @@
+body {
+	color: white;
+	background-color: black;
+	font-family: Arial;
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+	border: 30px solid transparent;
+}
+
+button {
+	color: black;
+	background-color: grey;
+	text-align: center;
+	text-decoration: none;
+	font-size: 16px;
+	font-weight: bold;
+
+	border-width: 5px;
+	border-radius: 5px;
+	border-color: black;
+
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+th, td {
+	border-width: 1px;
+	border-style: solid;
+	border-color: white;
+	border-collapse: collapse;
+	padding: 10px;
+}
+
+a {
+	color: blue;
+}
+
+.space {
+	border-width: 1px;
+	border-style:dotted;
+	border-color: white;
+}
+
+.about {
+	margin-right: 50px;
+	padding: 5px 40px;
+}
+
+.interests {
+	padding: 5px 40px;
+}
+
+.index {
+	margin-left: 50px;
+	padding: 5px 40px;
+}
